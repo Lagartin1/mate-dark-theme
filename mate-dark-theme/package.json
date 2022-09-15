@@ -3,12 +3,19 @@
   "displayName": "mate-dark-theme",
   "description": "mate dark theme",
   "version": "0.0.1",
+  "publisher": "lagartin1",
   "engines": {
     "vscode": "^1.71.0"
   },
+
   "categories": [
     "Themes"
   ],
+  "repository":{
+    "type": "git",
+    "directory": "git@github.com:Lagartin1/mate-dark-theme.git",
+
+  },
   "contributes": {
     "themes": [
       {
