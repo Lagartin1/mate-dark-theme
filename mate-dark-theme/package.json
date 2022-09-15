@@ -13,9 +13,13 @@
   ],
   "repository":{
     "type": "git",
-    "directory": "git@github.com:Lagartin1/mate-dark-theme.git",
-
+    "directory": "git@github.com:Lagartin1/mate-dark-theme.git"
   },
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark"
+  ],
   "contributes": {
     "themes": [
       {
